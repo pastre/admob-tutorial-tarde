@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>119530653191-pu9e2im78d49faklrs9a2f2klspdlikq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.119530653191-pu9e2im78d49faklrs9a2f2klspdlikq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD0pnF-HSytxeyqkKccoE7auhCFvDt6JMg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>119530653191</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>pastre.github.io.admob-tutorial-tarde</string>
+	<key>PROJECT_ID</key>
+	<string>tutorial-admob-444fe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tutorial-admob-444fe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:119530653191:ios:8b5d17ec4a8850e44d8ca2</string>
+	<key>DATABASE_URL</key>
+	<string>https://tutorial-admob-444fe.firebaseio.com</string>
+</dict>
+</plist>
